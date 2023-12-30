@@ -73,7 +73,6 @@ section.category{
   padding-block: 2.5rem;
   padding-block-end: 1rem;
   border-radius: 1rem;
-  border: 1px solid blue;
   > div{
     display: flex;
     justify-content: space-around;
